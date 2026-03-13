@@ -1,5 +1,5 @@
 ## Auteur
-Ewen Men >>>>>>>> Etienne Mas
+Etienne Massonnet
 
 # Guide du développeur débutant
 
