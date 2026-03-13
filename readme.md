@@ -1,5 +1,5 @@
 ## Auteur
-Zerwen le Ewen
+Ewen Men >>>>>>>> Etienne Mas
 
 # Guide du développeur débutant
 
