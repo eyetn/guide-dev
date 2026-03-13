@@ -1,5 +1,5 @@
-## Auteur
-Etienne Massonnet encore une fois
+## Auteurs
+Etienne Massonnet and Ewen Menez
 
 # Guide du développeur débutant
 
